@@ -65,21 +65,21 @@ The project utilizes the `DataCoSupplyChainDataset.csv` containing **172,765 cle
 
 ### Python Stack
 
-* **Pandas & NumPy:** Data cleaning, date conversion, feature engineering, and metrics aggregation[cite: 1].
-* **Matplotlib & Seaborn:** Custom bar charts, performance comparisons, and delay distributions[cite: 1].
-* **Scikit-Learn:** Data preprocessing, train-test splitting, Logistic Regression, Random Forest classification, cross-validation, and evaluation metrics[cite: 1].
-* **Imbalanced-Learn:** Synthetic Minority Over-sampling Technique (SMOTE)[cite: 1].
-* **Jupyter Notebook / Python Scripting:** Exploratory Data Analysis and model execution environment[cite: 1].
+* **Pandas & NumPy:** Data cleaning, date conversion, feature engineering, and metrics aggregation.
+* **Matplotlib & Seaborn:** Custom bar charts, performance comparisons, and delay distributions.
+* **Scikit-Learn:** Data preprocessing, train-test splitting, Logistic Regression, Random Forest classification, cross-validation, and evaluation metrics.
+* **Imbalanced-Learn:** Synthetic Minority Over-sampling Technique (SMOTE).
+* **Jupyter Notebook / Python Scripting:** Exploratory Data Analysis and model execution environment
 
 ### Analytics & Data Science Skills
 
-* **Data Preparation & Cleaning:** Handling missing values, dropping non-informative columns, datetime processing[cite: 1].
-* **Exploratory Data Analysis (EDA):** Grouping, pivot aggregation, and bottleneck identification[cite: 1].
-* **Logistics & Operations Analytics:** SLA tracking, shipping class failure analysis, regional transit tracking[cite: 1].
-* **Financial Risk Analysis:** Profit exposure tracking across delayed shipments[cite: 1].
-* **Predictive Analytics & Machine Learning:** Classification modeling, handling target leakage, cross-validation, ROC-AUC benchmarking[cite: 1].
-* **Data Visualisation:** Visual storytelling using clean, annotated charts[cite: 1].
-* **Business Intelligence & Strategy:** Translating model insights into actionable recommendations for company growth[cite: 1].
+* **Data Preparation & Cleaning:** Handling missing values, dropping non-informative columns, datetime processing.
+* **Exploratory Data Analysis (EDA):** Grouping, pivot aggregation, and bottleneck identification.
+* **Logistics & Operations Analytics:** SLA tracking, shipping class failure analysis, regional transit tracking.
+* **Financial Risk Analysis:** Profit exposure tracking across delayed shipments.
+* **Predictive Analytics & Machine Learning:** Classification modeling, handling target leakage, cross-validation, ROC-AUC benchmarking.
+* **Data Visualisation:** Visual storytelling using clean, annotated charts.
+* **Business Intelligence & Strategy:** Translating model insights into actionable recommendations for company growth.
 
 ---
 
