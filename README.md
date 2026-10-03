@@ -41,23 +41,23 @@ The project utilizes the `DataCoSupplyChainDataset.csv` containing **172,765 cle
 
 | Field | Description |
 | :--- | :--- |
-| **order date (DateOrders)** | Timestamp when the customer placed the order[cite: 1] |
-| **shipping date (DateOrders)** | Timestamp when the order was dispatched[cite: 1] |
-| **Days for shipment (scheduled)** | Target promised delivery duration (SLA)[cite: 1] |
-| **Shipping Mode** | Delivery class (First Class, Second Class, Standard Class, Same Day)[cite: 1] |
-| **Order Region** | Destination region of the customer[cite: 1] |
-| **Order City / Country** | Geographic location details[cite: 1] |
-| **Sales** | Gross sales revenue per order[cite: 1] |
-| **Order Item Profit Ratio** | Profitability metric associated with the order item[cite: 1] |
-| **Delivery Status** | Fulfillment outcome (Late delivery, Advance shipping, Shipping on time)[cite: 1] |
+| **order date (DateOrders)** | Timestamp when the customer placed the order |
+| **shipping date (DateOrders)** | Timestamp when the order was dispatched |
+| **Days for shipment (scheduled)** | Target promised delivery duration (SLA) |
+| **Shipping Mode** | Delivery class (First Class, Second Class, Standard Class, Same Day) |
+| **Order Region** | Destination region of the customer |
+| **Order City / Country** | Geographic location detail |
+| **Sales** | Gross sales revenue per order |
+| **Order Item Profit Ratio** | Profitability metric associated with the order item |
+| **Delivery Status** | Fulfillment outcome (Late delivery, Advance shipping, Shipping on time) |
 
 ### Dataset Coverage
 
-* **172,765** transaction records analyzed (excluding canceled shipments)[cite: 1]
-* **94,523** late delivery instances identified[cite: 1]
-* **$3,806,420.63** in total generated profit analyzed[cite: 1]
-* **23** global order regions evaluated[cite: 1]
-* **4** core shipping classes analyzed[cite: 1]
+* **172,765** transaction records analyzed (excluding canceled shipments)
+* **94,523** late delivery instances identified
+* **$3,806,420.63** in total generated profit analyzed
+* **23** global order regions evaluated
+* **4** core shipping classes analyzed
 
 ---
 
