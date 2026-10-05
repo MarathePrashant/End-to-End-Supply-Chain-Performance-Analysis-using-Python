@@ -1,4 +1,4 @@
-# 🚚 End-to-End Supply Chain Performance Analysis
+# 🚚 Supply Chain Performance Analysis
 
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue?style=flat-square\&logo=python)](#)
 [![Pandas](https://img.shields.io/badge/Pandas-Data_Analysis-150458?style=flat-square\&logo=pandas)](#)
