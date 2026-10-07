@@ -176,7 +176,7 @@ Open `Project_Report.pdf` for:
 
 **Target Roles:** Data Analyst | BI Analyst | Business Analyst
 
-* LinkedIn: Prashant Marathe
+* LinkedIn: https://www.linkedin.com/in/prashantmarathe17/
 * Portfolio: https://prashant-marathe.framer.website/
 * Email: [p04747391@gmail.com](mailto:p04747391@gmail.com)
 
